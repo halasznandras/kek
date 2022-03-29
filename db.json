@@ -1,71 +1,50 @@
 {
-  "employees": [
+  "dolgozok": [
     {
-      "name": "aa",
-      "city": "bb",
-      "salary": "10",
-      "id": 1
+      "id": 1,
+      "nev": "Kiss Márton",
+      "telepules": "Szolnok",
+      "fizetes": 2300000
     },
     {
-      "name": "aa",
-      "city": "bb",
-      "salary": "10",
-      "id": 2
+      "id": 2,
+      "nev": "Nagy Móni",
+      "telepules": "Miskolc",
+      "fizetes": 2500000
     },
     {
-      "name": "aa",
-      "city": "bb",
-      "salary": "100",
-      "id": 3
+      "id": 3,
+      "nev": "Ember Zoltán",
+      "telepules": "Szolnok",
+      "fizetes": 2150000
     },
     {
-      "name": "András",
-      "city": "Budapest",
-      "salary": "1000",
+      "nev": "András",
+      "telepules": "Bp",
+      "fizetes": "50000000",
       "id": 4
     },
     {
-      "name": "",
-      "city": "",
-      "salary": "",
+      "nev": "qq",
+      "telepules": "qq",
+      "fizetes": "23123",
       "id": 5
     },
     {
-      "name": "TesztB",
-      "city": "BP",
-      "salary": "120",
+      "nev": "ger",
+      "telepules": "gfg",
+      "fizetes": "543",
       "id": 6
-    },
-    {
-      "name": "",
-      "city": "",
-      "salary": "",
-      "id": 7
-    },
-    {
-      "name": "",
-      "city": "",
-      "salary": "",
-      "id": 8
-    },
-    {
-      "name": "kjskj",
-      "city": "jfngjk",
-      "salary": "132",
-      "id": 9
-    },
-    {
-      "name": "",
-      "city": "",
-      "salary": "",
-      "id": 10
-    },
-    {
-      "name": "",
-      "city": "",
-      "salary": "",
-      "id": 11
     }
   ],
-  "ranks": []
+  "beosztasok": [
+    {
+      "id": 1,
+      "nev": "tesztelő"
+    },
+    {
+      "id": 2,
+      "nev": "fejlesztő"
+    }
+  ]
 }
